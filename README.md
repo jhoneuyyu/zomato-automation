@@ -126,10 +126,11 @@ This project is for educational and testing purposes.
 
 ## 👤 Author
 
-**Vedashree Shavi**
+**Venkateshwar Shavi**
 
 ## 🙏 Acknowledgments
 
 - Zomato for the web application
 - Selenium WebDriver community
 - Pytest community
+
