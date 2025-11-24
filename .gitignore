@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Pytest
+.pytest_cache/
+htmlcov/
+.coverage
+.coverage.*
+
+# HTML Reports (optional - uncomment if you don't want to commit reports)
+# report.html
+# assets/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Selenium
+*.log
+geckodriver.log
+
+# Environment variables
+.env
+.env.local
